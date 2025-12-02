@@ -1,5 +1,5 @@
 # ct-web-tipps
-Interesting and helpful links of c't magazine (only in German)
+Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
 ## 06/2025
 
