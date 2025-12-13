@@ -1,6 +1,15 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 08/2025
+
+- Nachhaltiges Basteln
+- Schicke Stadtpläne
+- Lehrreiches Scrollen
+- Fröhliches Knallen
+
+[ct.de/y552](https://ct.de/y552)
+
 ## 06/2025
 
 - In den Wald horchen
