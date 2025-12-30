@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 09/2025
+
+- Schon wieder?
+- Organspende Ja oder Nein?
+- Back dir ein Bingo
+
+[ct.de/y9d6](https://ct.de/y9d6)
+
 ## 08/2025
 
 - Nachhaltiges Basteln
