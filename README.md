@@ -1,6 +1,15 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 12/2025
+
+- Ein wenig Grusel, bitte
+- Security - Check!
+- Projekt Staatsumbau
+- Wann war das?
+
+[ct.de/y8y8](https://ct.de/y8y8)
+
 ## 09/2025
 
 - Schon wieder?
