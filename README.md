@@ -1,6 +1,15 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 14/2025
+
+- Dateiumwandler
+- Die Welt aus neuen Blickwinkeln
+- Papiergleiter
+- Crowd-Spritztour
+
+[ct.de/yupq](https://ct.de/yupq)
+
 ## 12/2025
 
 - Ein wenig Grusel, bitte
@@ -9,6 +18,15 @@ Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 - Wann war das?
 
 [ct.de/y8y8](https://ct.de/y8y8)
+
+## 10/2025
+
+- Street-Art-Weltkarte
+- Zu viele Hühner
+- Stadtteil-Puzzle
+- Community-Restaurantführer
+
+[ct.de/ymah](https://ct.de/ymah)
 
 ## 09/2025
 
