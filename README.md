@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 16/2025
+
+- Satelliten-Schrift
+- Wie Open Source ist ein Projekt?
+- Community-Projekt: Radkarte mit Schildern
+
+[ct.de/y8n2](https://ct.de/y8n2)
+
 ## 15/2025
 
 - Wikipedia für die Urlaubsplanung
