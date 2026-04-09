@@ -1,6 +1,15 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 15/2025
+
+- Wikipedia für die Urlaubsplanung
+- Kniffliges Bilderrätsel
+- Technik-Stammbaum
+- Welt-Snake
+
+[ct.de/ypj9](https://ct.de/ypj9)
+
 ## 14/2025
 
 - Dateiumwandler
