@@ -36,6 +36,14 @@ Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
 [ct.de/y8y8](https://ct.de/y8y8)
 
+## 11/2025
+
+- Wissen schafft Sicherheit
+- Stadt, Land, Fluss
+- Wordle ohne Ende
+
+[ct.de/y6ft](https://ct.de/y6ft)
+
 ## 10/2025
 
 - Street-Art-Weltkarte
