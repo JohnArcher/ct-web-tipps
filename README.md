@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 17/2025
+
+- Symbol-Fundus
+- Unter Beobachtung
+- Glaubwürdigkeit durch Transparenz
+
+[ct.de/yefw](https://ct.de/yefw)
+
 ## 16/2025
 
 - Satelliten-Schrift
