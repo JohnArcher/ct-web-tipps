@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 18/2025
+
+- Backgammon (nicht nur) für Profis
+- Stockhausen-Archive
+- Pixelzähler
+
+[ct.de/ynr6](https://ct.de/ynr6)
+
 ## 17/2025
 
 - Symbol-Fundus
