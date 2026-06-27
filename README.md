@@ -9,6 +9,15 @@ Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
 [ct.de/y8gy](https://ct.de/y8gy)
 
+## 19/2025
+
+- Musik-Leaks
+- Für Wolkengucker
+- Star-Trek-Technik im Reality Check
+- Akustische Wikimedia-Fundstücke
+
+[ct.de/y1es](https://ct.de/y1es)
+
 ## 18/2025
 
 - Backgammon (nicht nur) für Profis
