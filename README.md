@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 22/2025
+
+- Rückenwind nicht nur für Sportler
+- Volle Philosophiedosis
+- Gekonnt verunregelmäßigt
+
+[ct.de/y8gy](https://ct.de/y8gy)
+
 ## 18/2025
 
 - Backgammon (nicht nur) für Profis
