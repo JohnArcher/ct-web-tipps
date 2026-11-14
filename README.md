@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 24/2025
+
+- Zeitreise im Katalog
+- Lernen, Leben zu retten
+- Erkennen Sie Desinformation?
+
+[ct.de/yf13](https://ct.de/yf13)
+
 ## 23/2025
 
 - Hilfe beim Linux-Umstieg
