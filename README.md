@@ -9,6 +9,14 @@ Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
 [ct.de/y8gy](https://ct.de/y8gy)
 
+## 21/2025
+
+- World-Wide-Radio
+- Stau verstehen
+- Resteverwertung
+
+[ct.de/yhcp](https://ct.de/yhcp)
+
 ## 20/2025
 
 - Interaktive Historie
