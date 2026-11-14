@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 25/2025
+
+- Textsatz ohne Grenzen
+- Forschungshilfe
+- 100 Milliarden Pixel Kunst
+
+[ct.de/yka7](https://ct.de/yka7)
+
 ## 24/2025
 
 - Zeitreise im Katalog
