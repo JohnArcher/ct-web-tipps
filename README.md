@@ -9,6 +9,14 @@ Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
 [ct.de/y8gy](https://ct.de/y8gy)
 
+## 20/2025
+
+- Interaktive Historie
+- Von Jesus zum Dieselmotor
+- Raumgestaltung für Jedermann
+
+[ct.de/y4bh](https://ct.de/y4bh)
+
 ## 19/2025
 
 - Musik-Leaks
