@@ -1,6 +1,12 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 02/2026
+
+- Tools zur Foto-Verifizierung
+
+[ct.de/y5v8](https://ct.de/y5v8)
+
 ## 01/2026
 
 No web tipps in this issue.
