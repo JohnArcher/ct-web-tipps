@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 23/2025
+
+- Hilfe beim Linux-Umstieg
+- Softwaregalaxien und Paketgraphen
+- Mailadressen erkennen
+
+[ct.de/yb2a](https://ct.de/yb2a)
+
 ## 22/2025
 
 - Rückenwind nicht nur für Sportler
