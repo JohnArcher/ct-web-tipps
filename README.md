@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 01/2026
+
+No web tipps in this issue.
+
+## 26/2025
+
+No web tipps in this issue.
+
 ## 25/2025
 
 - Textsatz ohne Grenzen
