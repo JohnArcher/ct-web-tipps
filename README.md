@@ -1,6 +1,16 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 04/2026
+
+- Star-Trek-Wiki Memory Alpha
+
+[Memory Alpha](https://memory-alpha.fandom.com/de)
+
+[Memory Alpha Nova](https://memory-alpha.wiki)
+
+[Memory Beta](https://memory-beta.fandom.com/de)
+
 ## 03/2026
 
 - Jura-Magazin für alle
