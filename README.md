@@ -1,6 +1,14 @@
 # ct-web-tipps
 Interesting and helpful links of [c't magazine](https://ct.de) (only in German)
 
+## 03/2026
+
+- Jura-Magazin für alle
+
+[www.lto.de](https://www.lto.de)
+
+[www.lto.de/karriere](https://www.lto.de/karriere)
+
 ## 02/2026
 
 - Tools zur Foto-Verifizierung
